@@ -1,0 +1,5 @@
+{
+  "latest_version": "2.0.0",
+  "download_url": "https://github.com/sunkehua/Sun-App/releases",
+  "update_log": "1. 优化了叉车防超速回路的计算模块；\n2. 修复了导出 PDF 时的闪退缺陷；\n3. 提升了数据传输的稳定性。"
+}
